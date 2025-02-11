@@ -1,0 +1,4 @@
+database:
+  url: ${OPTIMIZER_DB_URL}
+  username: ${OPTIMIZER_DB_USER}
+  password: ${OPTIMIZER_DB_PASSWORD}
